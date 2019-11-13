@@ -2,11 +2,10 @@
   <div id="app">
     <NavBar/>
 
-    <div class="">
-      <sideBar/>
+
      
       <!-- <router-view/> -->
-    </div>
+
     
     <!-- <div id="nav">
       <router-link to="/">Home</router-link> |

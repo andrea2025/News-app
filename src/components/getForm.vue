@@ -1,26 +1,35 @@
 <template>
   <div class="container-fluid">
     <!-- <h2 class="text-center">News Headlines</h2> -->
-    <!-- <form>
-    <select name="#" v-model="country" >
-        <option>Select country</option>
-        <option value="nig">Nigeria</option>
-        <option value="cn">Canada</option>
-        <option value="uk">United Kingdom</option>
-        <option value="aus">Australia</option>
-        <option value="china">China</option>
-        <option value="us">United state</option>
-    </select>
+    <form>
+      <div>
+        <div>
+          <label for="">Country</label>
+        </div>
+        <select name="#" v-model="country" class="bg-light">
+          <option value="ng">Nigeria</option>
+          <option value="ca">Canada</option>
+          <option value="uk">United Kingdom</option>
+          <option value="jp">Japan</option>
+          <option value="nz">New zeland</option>
+          <option value="us">United state</option>
+        </select>
+      </div>
+      <div>
+        <div>
+          <label for="">Category</label>
+        </div>
+        <select name="#" v-model="category" class="bg-light">
+          <option value="health">Health</option>
+          <option value="sport">Sport</option>
+          <option value="business">Business</option>
+          <option value="technology">Technology</option>
+          <option value="entertainment">Entertainment</option>
+        </select>
+      </div>
+      <button type="button" class="btn-danger mt-3 px-4 py-2 rounded-pill" @click="updateNews">More News</button>
+    </form>
 
-    <select name="#" v-model="category">
-        <option value="#">Select a category</option>
-        <option value="health">Health</option>
-        <option value="sport">Sport</option>
-        <option value="Edu">Education</option>
-        <option value="fash">Fashion</option>
-    </select>
-    </form> -->
-    
     <div class="row">
       <div v-for="(item,index) in newData" :key="index" class="col-6">
         <div class="bg-white my-auto">
@@ -30,21 +39,21 @@
             </div>
           </a>
 
-          <h4>
+          <h4 class="pt-3">
             <a :href="item.url">{{item.title}}</a>
           </h4>
           <div>
             <p class="author">{{item.author}}</p>
           </div>
           <div>
-            <p class="cont">{{item.content}}</p>
-          </div>
-          <div>
-            <p class="pub">{{item.publishedAt}}</p>
+            <p class="cont">{{item.description}}</p>
           </div>
           <!-- <div>
-            <p>{{item.url}}</p>
+            <p class="pub">{{item.publishedAt}}</p>
           </div> -->
+          <!-- <div>
+            <p>{{item.url}}</p>
+          </div>-->
         </div>
       </div>
     </div>
@@ -55,20 +64,23 @@ export default {
   name: "getForm",
   data() {
     return {
-      newData: []
+      newData: [],
+       country: "",
+      category: ""
     };
   },
-  mounted() {
-    this.$http
-      .get(
-        "https://newsapi.org/v2/top-headlines?country=us&apiKey=b6688556cb7b42efa04219bdebd3e933"
-      )
-      .then(response => {
-        this.newData = response.data.articles;
-      })
-      .catch(error => {
-        alert(error.response);
+  methods: {
+    updateNews() {
+      var urLink = "https://newsapi.org/v2/top-headlines?country=";
+      var ctr = this.country;
+      var u = "&category=";
+      var y = this.category;
+      var x = "&apiKey=360e9255e3ce425881637a308ecf0632";
+      var z = urLink + ctr + u + y + x;
+      this.$http.get(z).then(response => {
+        this.newData = response.data.articles
       });
+    }
   }
 };
 </script>
@@ -89,9 +101,12 @@ img {
   height: auto;
   width: 80%;
 }
-a{
-    text-decoration:none;
-    color:maroon;
-
+a {
+  text-decoration: none;
+  color: maroon;
+}
+select{
+  width:60%;
+  padding:0.5rem;
 }
 </style>
