@@ -1,0 +1,264 @@
+{
+  "articles": [
+  {
+      "source": {
+          "id": "the-next-web",
+          "name": "The Next Web"
+      },
+      "author": null,
+      "title": "C++ creator hates that Bitcoin was written in the language he...",
+      "description": "C++ creator hates that Bitcoin was written in the language he made",
+      "url": "https://cc.thenextweb.com/post/188985491903/httpsthenextwebcomhardfork20191111bitcoin-progr",
+      "urlToImage": "https://66.media.tumblr.com/bce77d89e8f2efbbf7d673152a0d1a05/dd8a269d843f8d0b-29/s1280x1920/b3a92be73defb908a49ea5493a72f41f2191150c.jpg",
+      "publishedAt": "2019-11-11T14:45:30Z",
+      "content": "C++ creator hates that Bitcoin was written in the language he made"
+  },
+  {
+      "source": {
+          "id": "the-next-web",
+          "name": "The Next Web"
+      },
+      "author": "David Canellis",
+      "title": "C++ creator hates that Bitcoin was written in the language he made",
+      "description": "C++ creator Bjarne Stroustrup doesn’t like that Bitcoin was written in his programming language, at all. In a recent podcast interview, Stroustrup took a moment to explain how he felt about programmers using C++ for such wide variety of applications. Mostly, …",
+      "url": "https://thenextweb.com/hardfork/2019/11/11/bitcoin-programming-language-cryptocurrency-bjarne-stroustrup/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F05%2Fsadblockchain.jpg&signature=cd609d1db931116b4668d3d74cd63f13",
+      "publishedAt": "2019-11-11T14:41:31Z",
+      "content": "C++ creator Bjarne Stroustrup doesnt like that Bitcoin BTC was written in his programming language, at all.\r\nIn a recent podcast interview, Stroustrup took a moment to explain how he felt about programmers using C++ for such wide variety of applications.\r\nMos… [+1569 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Habr.com"
+      },
+      "author": "Ad_augusta_per_angusta",
+      "title": "[Из песочницы] Как создать свое первое веб-приложение с помощью Go",
+      "description": "Привет, Хабр! Представляю вашему вниманию статьи \"How to build your first web application with Go\" автора Ayooluwa Isaiah. Это руководство к вашему первому веб-приложению на Go. Мы создадим новостное приложение, которое использует News API для получения новос…",
+      "url": "https://habr.com/ru/post/475390/#post-content-body",
+      "urlToImage": "https://habr.com/share/article/475390/62d94ed42530bd6e382b416b11fb2410/?v=1",
+      "publishedAt": "2019-11-11T14:39:02Z",
+      "content": ", ! \"How to build your first web application with Go\" Ayooluwa Isaiah.\r\n - Go. , News API , .\r\n , GitHub .\r\nGo, . Go, , : 1.12.9. Go, go version.\r\n , , .\r\n, !\r\n GitHubcd . : main.go Go . index.html , , assets/styles.css.\r\n -\r\n , «Hello World!» GET . main.go ,… [+12395 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Letstalkbitcoin.com"
+      },
+      "author": "adam@letstalkbitcoin.com (The LTB Network), The LTB Network",
+      "title": "Alex Gladstein on Blockchain and Tyranny Vs. Bitcoin and Freedom",
+      "description": "In this episode, Dave talks with Alex Gladstein about the recent news that China and President Xi Jinping, have publicly expressed admiration for blockchain technology. This news spiked the Bitcoin price at the beginning of November, but Gladstein is weary fo…",
+      "url": "https://letstalkbitcoin.com/blog/post/alex-gladstein-blockchain-tyranny-vs-bitcoin-freedom?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheDailyBitcoinShow+%28Let%27s+Talk+Bitcoin+Network+Feed%29",
+      "urlToImage": "https://letstalkbitcoin.com/files/blogs/8203-1da1e06fcf1d8a5d16c9fe0712fadc384dc2820a9d089bbf11776f3e1b6f53dc.jpg",
+      "publishedAt": "2019-11-11T14:39:00Z",
+      "content": "Click to download audio version\r\nIn this episode, Dave talks with Alex Gladstein about the recent news that China and President Xi Jinping, have publicly expressed admiration for blockchain technology. This news spiked the Bitcoin price at the beginning of No… [+1040 chars]"
+  },
+  {
+      "source": {
+          "id": "crypto-coins-news",
+          "name": "Crypto Coins News"
+      },
+      "author": "Kiril Nikolaev",
+      "title": "Bitcoin Price Volatility Liquidates $90 Million in Brutal Pump and Dump",
+      "description": "Bitcoin traders were badly whipsawed today and yesterday as the cryptocurrency rose above $9,100 only to dump back down to $8,600. The price action gives spot buyers or HODLers the opportunity to add to their long positions. A widely-followed trader shared a …",
+      "url": "https://www.ccn.com/bitcoin-price-volatility-liquidates-90-million-brutal-pump-dump/",
+      "urlToImage": "https://www.ccn.com/wp-content/uploads/2019/11/Bitcoin-chart-volatility-Stock.jpg",
+      "publishedAt": "2019-11-11T14:20:16Z",
+      "content": "<ul><li>Bitcoin traders were badly whipsawed today and yesterday as the cryptocurrency rose above $9,100 only to dump back down to $8,600.</li><li>The price action gives spot buyers or HODLers the opportunity to add to their long positions.</li><li>A widely-f… [+3712 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Telegraaf.nl"
+      },
+      "author": "redactie DFT",
+      "title": "Animo voor digitale munt bitcoin brokkelt weer af",
+      "description": "Na de forse opleving eind vorige maand is de digitale munt bitcoin maandag weer teruggevallen tot ruim onder de $9000.",
+      "url": "https://www.telegraaf.nl/financieel/1587754071/animo-voor-digitale-munt-bitcoin-brokkelt-weer-af",
+      "urlToImage": "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/086f4d3e-048f-11ea-b695-0218eaf05005.jpg",
+      "publishedAt": "2019-11-11T14:17:33Z",
+      "content": "De koers van bitcoin gleed rond 15.00 uur bijna 2% terug tot $8691 na eerder deze maand nog stevig boven de $9000 te zijn gestegen.\r\nEind oktober werd de bereidheid van beleggers om in de bitcoin te stappen nog flink aangewakkerd door het nieuws dat China gro… [+528 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Seekingalpha.com"
+      },
+      "author": "Niloofer Shaikh",
+      "title": "On the hour",
+      "description": "S&amp;P -0.4%.10-yr +0.21%.Euro +0.21% vs. dollar.Crude -1.38% to $56.45.Gold -0.09% to $1,461.65.Bitcoin -1.05% to $8,737.",
+      "url": "https://seekingalpha.com/news/3517519-hour",
+      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "publishedAt": "2019-11-11T14:01:04Z",
+      "content": "S&amp;P -0.4%.\r\n10-yr +0.21%.\r\nEuro +0.21% vs. dollar.\r\nCrude -1.38% to $56.45.\r\nGold -0.09% to $1,461.65.\r\nBitcoin -1.05% to $8,737."
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Smallbiztrends.com"
+      },
+      "author": "Samson Haileyesus",
+      "title": "The 25 Most Famous Veteran Entrepreneurs",
+      "description": "If you're a veteran just starting on your business journey, here are 25 famous veteran entrepreneurs who will inspire you to keep going no matter what.",
+      "url": "https://smallbiztrends.com/2019/11/famous-veteran-entrepreneurs.html",
+      "urlToImage": "https://smallbiztrends.com/wp-content/uploads/2019/10/The-25-Most-Famous-Veteran-Entrepreneurs.jpg",
+      "publishedAt": "2019-11-11T14:00:58Z",
+      "content": "Military veteran entrepreneurs have a keen insight when it comes to assessing risk, making decisions and persevering even in the most adverse situations. This has allowed vets to succeed when they switch to civilian life and pursue their entrepreneurial dream… [+13287 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Lowendbox.com"
+      },
+      "author": "Frank Williams",
+      "title": "LQHosting – OpenVZ VPS Plans on sale out of Dallas!!! 3 Different Sized plans!",
+      "description": "LQHosting, is back with some awesome OpenVZ offers for the community! Everything here is SSD powered and based out of their Dallas, TX location! For those who desire minimal overhead, the OpenVZ VPS plan looks perfect. As always we hope you enjoy their promot…",
+      "url": "https://lowendbox.com/blog/lqhosting-openvz-vps-plans-on-sale-out-of-dallas-3-different-sized-plans/",
+      "urlToImage": "http://lowendbox.com/wp-content/uploads/2018/12/LQHosting.jpg",
+      "publishedAt": "2019-11-11T14:00:22Z",
+      "content": "LQHosting, is back with some awesome OpenVZ offers for the community! Everything here is SSD powered and based out of their Dallas, TX location!For those who desire minimal overhead, the OpenVZ VPS plan looks perfect.As always we hope you enjoy their promotio… [+1887 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Prnewswire.com"
+      },
+      "author": null,
+      "title": "Bithumb Changes its Corporate Name to 'Bithumb Korea'",
+      "description": "SEOUL, South Korea, Nov. 11, 2019 /PRNewswire/ -- BTCKorea.com (CEO: Jae Won Choi), the operating company of Bithumb, the biggest cryptocurrency exchange in Korea, announced that it will change its corporate name to 'Bithumb Korea.' With Bithumb pushing for a…",
+      "url": "https://www.prnewswire.com/news-releases/bithumb-changes-its-corporate-name-to-bithumb-korea-300954613.html",
+      "urlToImage": "https://mma.prnewswire.com/media/1025006/Bithumb_Korea.jpg?p=facebook",
+      "publishedAt": "2019-11-11T14:00:00Z",
+      "content": "Founded in 2014, Bithumb Korea recorded the largest number of bitcoin transactions in Korea, and in 2017 emerged as the number one cryptocurrency exchange in the world in terms of total transaction volume. Thereafter, it opened the biggest customer service ce… [+1700 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Avast.com"
+      },
+      "author": "Jeff Elder",
+      "title": "Top 10 Moments From the CyberSec & AI Prague Conference | Avast",
+      "description": "A new kind of conference drew speakers and presenters from 11 nations to Prague last month. CyberSec & AI Prague combined top academic speakers with students presenting their ideas. Topics included adversarial AI – a subject at the very height of the industry…",
+      "url": "https://blog.avast.com/top-10-moments-from-the-cybersec-ai-prague",
+      "urlToImage": "https://cdn2.hubspot.net/hub/486579/cybersecview.jpeg?width=900",
+      "publishedAt": "2019-11-11T14:00:00Z",
+      "content": "Avast and Czech Technical University brought attendees topics ranging from hallucinating AI to the machine vs. machine struggle of adversarial algorithms A new kind of conference drew speakers and presenters from 11 nations to Prague last month. CyberSec &amp… [+3471 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Letstalkbitcoin.com"
+      },
+      "author": "adam@letstalkbitcoin.com (The LTB Network), The LTB Network",
+      "title": "4 Minute Crypto - A New Way To Send And Receive Bitcoin As a Gift",
+      "description": "Through history, people have given friends and family money as gifts.For birthdays, weddings and special occasions. Today there are many Bitcoiners who want to give Bitcoin to family members and friends, but it may be a little tough for a non-Bitcoiner to und…",
+      "url": "https://letstalkbitcoin.com/blog/post/4-minute-crypto-a-new-way-to-send-and-receive-bitcoin-as-a-gift?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheDailyBitcoinShow+%28Let%27s+Talk+Bitcoin+Network+Feed%29",
+      "urlToImage": "https://letstalkbitcoin.com/files/blogs/8202-4a5b71c14dda732df01aa504d66acba5c4f1db613637610c350993334b5ecaaf.jpg",
+      "publishedAt": "2019-11-11T13:49:00Z",
+      "content": "Click to download audio version\r\nThrough history, people have given friends and family money as gifts.\r\nFor birthdays, weddings and special occasions.\r\nToday there are many Bitcoiners who want to give Bitcoin to family members and friends, but it may be a lit… [+453 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Divergentoptions.org"
+      },
+      "author": null,
+      "title": "An Assessment of the Current State of U.S. Cyber Civil Defense",
+      "description": "Title An Assessment of the Current State of U.S. Cyber Civil Defense. Date Originally Written September 11, 2019. Date Originally Published November 22, 2019. Author and / or Article Point of View The author is an early-career cybersecurity analyst with exper…",
+      "url": "https://divergentoptions.org/2019/11/11/an-assessment-of-the-current-state-of-u-s-cyber-civil-defense/",
+      "urlToImage": "https://i1.wp.com/divergentoptions.org/wp-content/uploads/2017/06/cropped-d_o-short.jpg?fit=231%2C230&ssl=1",
+      "publishedAt": "2019-11-11T13:49:00Z",
+      "content": "Lee Clark is a cyber intelligence analyst currently working on cyber defense strategy in the Middle East.  He holds an MA in intelligence and international security from the University of KentuckysPatterson School. He can be found on Twitter at @InktNerd.  Di… [+9805 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Sueddeutsche.de"
+      },
+      "author": "Süddeutsche Zeitung",
+      "title": "Internet - Kiel: Anlaufstelle soll Unternehmen bei Cyberattacken helfen",
+      "description": "Kiel (dpa) - Eine neue Anlaufstelle soll Unternehmen im Fall von Cyberkriminalität Experten vermitteln. \"Cyber-Attacken sind kein Science-Fiction-Stoff, sie...",
+      "url": "https://www.sueddeutsche.de/service/internet-kiel-anlaufstelle-soll-unternehmen-bei-cyberattacken-helfen-dpa.urn-newsml-dpa-com-20090101-191111-99-682159",
+      "urlToImage": "https://www.sueddeutsche.de/assets/png/sz-e6f6c02355590e640386e3947d66f8cd.png",
+      "publishedAt": "2019-11-11T13:46:18Z",
+      "content": "Kiel (dpa) - Eine neue Anlaufstelle soll Unternehmen im Fall von Cyberkriminalität Experten vermitteln. \"Cyber-Attacken sind kein Science-Fiction-Stoff, sie sind bittere Realität und längst auch im Alltag von kleinen und mittelständischen Unternehmen in unser… [+870 chars]"
+  },
+  {
+      "source": {
+          "id": "info-money",
+          "name": "InfoMoney"
+      },
+      "author": "Giovanna Sutto",
+      "title": "XDEX de cara nova: exchange muda site e marca para atender melhor o cliente; veja como ficou",
+      "description": "Exchange foi a primeira com taxa zero para Bitcoin The post XDEX de cara nova: exchange muda site e marca para atender melhor o cliente; veja como ficou appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/patrocinados/xdex/xdex-de-cara-nova-exchange-muda-site-e-marca-para-atender-melhor-o-cliente-veja-como-ficou/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2019/11/xdex.jpg?fit=1264%2C736&quality=75&strip=all",
+      "publishedAt": "2019-11-11T13:31:11Z",
+      "content": "A XDEX, primeira exchange de criptomoedas com taxa zero para Bitcoin, mudou sua identidade visual, seu site, blog e aplicativo para oferecer melhor conteúdo, praticidade e facilidade para o investidor.\r\nA repaginada completa da empresa foi baseada em pesquisa… [+5415 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Bitcoinist.com"
+      },
+      "author": "Anatol Antonovici",
+      "title": "Blockchain Spending in China to Exceed $2 Billion by 2023",
+      "description": "China’s blockchain spending is expected to see rapid growth in the next three years and exceed the $2 billion figure by the end of 2023, according to a report carried out by market intelligence firm IDC. IDC Data Confirms China’s Blockchain Plan The IDC repor…",
+      "url": "https://bitcoinist.com/blockchain-spending-in-china-to-exceed-2-billion-by-2023/",
+      "urlToImage": "https://bitcoinist.com/wp-content/uploads/2019/10/shutterstock_1251796438-e1573478362342-1920x1200.jpg",
+      "publishedAt": "2019-11-11T13:30:33Z",
+      "content": "Chinas blockchain spending is expected to see rapid growth in the next three years and exceed the $2 billion figure by the end of 2023, according to a report carried out by market intelligence firm IDC.\r\nIDC Data Confirms Chinas Blockchain Plan\r\nThe IDC repor… [+2371 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Cointelegraph.com"
+      },
+      "author": "Cointelegraph By filbfilb",
+      "title": "Bitcoin Price Falls Below $9K as Bears Back in Control Eyeing $8.2K",
+      "description": "Bitcoin bears take back control as the short-lived weekend pump fails to crack heavy resistance and BTC falls to $8,700 and likely falling lower in the coming days",
+      "url": "https://cointelegraph.com/news/bitcoin-price-falls-below-9k-as-bears-back-in-control-eyeing-82k",
+      "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80YTgwZjE1ZWFlNDc5OGU5MDYwYWIzYjBhNTE1OTkzOC5qcGc=.jpg",
+      "publishedAt": "2019-11-11T13:30:00Z",
+      "content": "Bitcoin price (BTC) fell almost 5% on Monday morning, finding lows of $8,593, completely reversing the weekend recovery back above the $9,000 handle and below the lows of the prior week.\r\nAs we have seen recently, all other major cryptos have followed suit, w… [+4641 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Newsbtc.com"
+      },
+      "author": "Davit Babayan",
+      "title": "Bitcoin Bulls Constantly Exhaust Kraken’s Liquidity Pool: CEO",
+      "description": "Bitcoin bulls are constantly exhausting the US dollar reserve pool for opening leveraged Long positions, revealed Jesse Powell of Kraken – a US-based cryptocurrency exchange. The chief executive officer told Youtuber Ivan on Tech in an interview that the numb…",
+      "url": "https://www.newsbtc.com/2019/11/11/bitcoin-bulls-constantly-exhaust-krakens-liquidity-pool-ceo/",
+      "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/11/shutterstock_774787891-1200x780.jpg",
+      "publishedAt": "2019-11-11T13:17:08Z",
+      "content": "Bitcoin bulls are constantly exhausting the US dollar reserve pool for opening leveraged Long positions, revealed Jesse Powell of Kraken a US-based cryptocurrency exchange.\r\nThe chief executive officer told Youtuber Ivan on Tech in an interview that the numbe… [+3027 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Businesswire.com"
+      },
+      "author": null,
+      "title": "Media Alert: IRS Acts to Increase Virtual Currency Tax Compliance",
+      "description": "--(BUSINESS WIRE)--Wolters Kluwer Tax & Accounting looks at steps the IRS is taking to encourage taxpayers to report virtual currency transactions",
+      "url": "https://www.businesswire.com/news/home/20191111005174/en/Media-Alert-IRS-Acts-Increase-Virtual-Currency",
+      "urlToImage": "https://mms.businesswire.com/media/20191111005174/en/755624/23/WK_H_01_Pos_RGB_2400_Color.jpg",
+      "publishedAt": "2019-11-11T13:09:40Z",
+      "content": "--(BUSINESS WIRE)--Wolters Kluwer Tax &amp; Accounting:\r\nWhat: The Internal Revenue Service (IRS) considers virtual currencies such as Bitcoin to be property rather than currency and considers transactions involving virtual currency to be taxable transactions… [+1946 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Latimes.com"
+      },
+      "author": "David Lazarus",
+      "title": "Newsletter: Thanksgiving travel may mean paying extra to sit with your kids",
+      "description": "If you're flying coach, there may be no guarantee you'll be seated with your kids -- unless you pay more to reserve seats.",
+      "url": "https://www.latimes.com/business/story/2019-11-11/thanksgiving-travel",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/08a8c6a/2147483647/strip/true/crop/2000x1050+0+38/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0b%2Fd4%2Ffabd0b98f6cfaae1ff0309438fa4%2Fla-me-get-away-day-20171122-pictures-003",
+      "publishedAt": "2019-11-11T13:00:59Z",
+      "content": "Im Business columnist David Lazarus\r\n, with a look today at holiday travel.\r\nThere have been a number of alarming stories recently about the nightmare of getting out of Los Angeles International Airport amid a new policy of steering taxis and ride-hailing ser… [+3873 chars]"
+  }
+]
+}
