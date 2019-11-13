@@ -48,12 +48,11 @@ export default {
         this.newData = response.data.articles;
       })
       .catch(error => {
-        console.log(error.response);
+        alert(error.response);
       });
   }
 };
 </script>
-
 <style scoped>
 h4 {
   color: maroon;
