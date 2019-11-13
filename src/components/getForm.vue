@@ -1,19 +1,22 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <h2 class="text-center">News Headlines</h2>
+    <form>
+    <select name="" id=""></select>
+    </form>
     
     <div class="row">
       <div v-for="(item,index) in newData" :key="index" class="col-5">
-        <div class="bg-secondary my-auto">
+        <div class="bg-white my-auto">
           <a :href="item.url">
             <div>
               <img :src="item.urlToImage" :alt="item.title" class="images" />
             </div>
           </a>
 
-          <h3>
+          <h4>
             <a :href="item.url">{{item.title}}</a>
-          </h3>
+          </h4>
           <div>
             <p class="author">{{item.author}}</p>
           </div>
@@ -54,10 +57,6 @@ export default {
 };
 </script>
 <style scoped>
-h4 {
-  color: maroon;
-  background: gray;
-}
 .author {
   color: white;
   font-style: italic;
@@ -76,6 +75,7 @@ img {
 }
 a{
     text-decoration:none;
+    color:maroon;
 
 }
 </style>
