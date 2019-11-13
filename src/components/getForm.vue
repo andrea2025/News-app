@@ -6,7 +6,7 @@
     </form>
     
     <div class="row">
-      <div v-for="(item,index) in newData" :key="index" class="col-5">
+      <div v-for="(item,index) in newData" :key="index" class="col-6">
         <div class="bg-white my-auto">
           <a :href="item.url">
             <div>
@@ -26,9 +26,9 @@
           <div>
             <p class="pub">{{item.publishedAt}}</p>
           </div>
-          <div>
+          <!-- <div>
             <p>{{item.url}}</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -71,7 +71,7 @@ export default {
 }
 img {
   height: auto;
-  width: 70%;
+  width: 80%;
 }
 a{
     text-decoration:none;

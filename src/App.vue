@@ -13,9 +13,11 @@
       <router-link to="/about">About</router-link>
     </div> -->
      <router-view/>
-    <footer>
+
+
+    <!-- <footer>
       <p>copyright &copy; 2019</p>
-    </footer>
+    </footer> -->
    
   </div>
 </template>
