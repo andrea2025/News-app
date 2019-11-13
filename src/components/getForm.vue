@@ -1,9 +1,25 @@
 <template>
   <div class="container-fluid">
-    <h2 class="text-center">News Headlines</h2>
-    <form>
-    <select name="" id=""></select>
-    </form>
+    <!-- <h2 class="text-center">News Headlines</h2> -->
+    <!-- <form>
+    <select name="#" v-model="country" >
+        <option>Select country</option>
+        <option value="nig">Nigeria</option>
+        <option value="cn">Canada</option>
+        <option value="uk">United Kingdom</option>
+        <option value="aus">Australia</option>
+        <option value="china">China</option>
+        <option value="us">United state</option>
+    </select>
+
+    <select name="#" v-model="category">
+        <option value="#">Select a category</option>
+        <option value="health">Health</option>
+        <option value="sport">Sport</option>
+        <option value="Edu">Education</option>
+        <option value="fash">Fashion</option>
+    </select>
+    </form> -->
     
     <div class="row">
       <div v-for="(item,index) in newData" :key="index" class="col-6">

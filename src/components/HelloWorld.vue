@@ -1,5 +1,5 @@
 <template>
   <div>
-   <h1>Search here</h1> 
+   <h1>News Headlines</h1> 
   </div>
 </template>
